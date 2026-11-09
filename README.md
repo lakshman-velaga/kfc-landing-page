@@ -2,7 +2,7 @@
 
 A responsive landing page built with React and Vite.
 
-🔗 **Live demo:** (paste your Vercel link here)
+🔗 **Live demo:** [https://kfc-landing-page-swart.vercel.app]
 
 ## Features
 - Animated navbar and hero section
