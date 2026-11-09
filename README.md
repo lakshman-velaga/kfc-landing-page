@@ -1,16 +1,28 @@
-# React + Vite
+# KFC Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive landing page built with React and Vite.
 
-Currently, two official plugins are available:
+🔗 **Live demo:** (paste your Vercel link here)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Animated navbar and hero section
+- Fully responsive layout for mobile and desktop
+- Reusable React components (Navbar, Hero)
+- CSS variables for consistent colours
 
-## React Compiler
+## Tech Used
+React, Vite, JavaScript, CSS3
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Run it locally
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+## What I learned
+- Building a UI with React components
+- CSS animations, Flexbox and media queries
+- Version control with Git and GitHub, and deploying with Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Note
+Educational project built while learning React. Not affiliated with KFC. All brand names and images belong to their owners.
